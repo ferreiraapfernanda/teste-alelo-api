@@ -67,3 +67,5 @@ Foram desenvolvidas 2 classes de testes:
 -----
 
 2020-03-25
+
+[Currículo](https://github.com/ferreiraapfernanda/teste-alelo-api/blob/master/FernandaAparecidaFerreira_Curr%C3%ADculo.pdf)
